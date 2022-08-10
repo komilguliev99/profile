@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.f7e1792e.css",
+    "main.css": "/profile/static/css/main.6f849c4f.css",
     "main.js": "/profile/static/js/main.cc8933c1.js",
     "static/js/787.1ed0c42c.chunk.js": "/profile/static/js/787.1ed0c42c.chunk.js",
     "static/media/Raleway-Medium.ttf": "/profile/static/media/Raleway-Medium.601cda68c7b7bbcc9a12.ttf",
@@ -32,12 +32,12 @@
     "static/media/facebook.svg": "/profile/static/media/facebook.00cdb1a52cfa3f16df8b21dc810ff8c7.svg",
     "static/media/portfolio.svg": "/profile/static/media/portfolio.bfed0394627a3aa047629ae00bafbc77.svg",
     "static/media/resume.svg": "/profile/static/media/resume.cc6b58f380a209d69adf0fbb33186af9.svg",
-    "main.f7e1792e.css.map": "/profile/static/css/main.f7e1792e.css.map",
+    "main.6f849c4f.css.map": "/profile/static/css/main.6f849c4f.css.map",
     "main.cc8933c1.js.map": "/profile/static/js/main.cc8933c1.js.map",
     "787.1ed0c42c.chunk.js.map": "/profile/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7e1792e.css",
+    "static/css/main.6f849c4f.css",
     "static/js/main.cc8933c1.js"
   ]
 }
